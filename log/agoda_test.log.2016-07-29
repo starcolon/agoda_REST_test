@@ -1,0 +1,1088 @@
+2016-07-29 13:12 - info: [36m***********************[39m
+2016-07-29 13:12 - info: [32m Server starting...[39m
+2016-07-29 13:12 - info: [32m Service available at: :::4200[39m
+2016-07-29 13:12 - info: [36m***********************[39m
+2016-07-29 13:12 - info: [36m***********************[39m
+2016-07-29 13:12 - info: [32m Server starting...[39m
+2016-07-29 13:12 - info: [32m Service available at: :::4200[39m
+2016-07-29 13:12 - info: [36m***********************[39m
+2016-07-29 13:12 - info: [36mInitialising default rules.[39m
+2016-07-29 13:14 - info: [32mPOST /hotels/score/ :[39m {"{\"hotelId\":190, \"countryId\":0}":""}
+2016-07-29 13:14 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-29 13:15 - info: [32mPOST /hotels/score/ :[39m {"[{\"hotelId\":190, \"countryId\":0}]":""}
+2016-07-29 13:15 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-29 13:15 - info: [36m***********************[39m
+2016-07-29 13:15 - info: [32m Server starting...[39m
+2016-07-29 13:15 - info: [32m Service available at: :::4200[39m
+2016-07-29 13:15 - info: [36m***********************[39m
+2016-07-29 13:15 - info: [32mPOST /hotels/score/ :[39m {"[{\"hotelId\":190, \"countryId\":0}]":""}
+2016-07-29 13:15 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-29 13:20 - info: [32mPOST /hotels/score/ :[39m {"hotelID:100":""}
+2016-07-29 13:20 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-29 13:21 - info: [32mGET /rules/[39m
+2016-07-29 13:22 - info: [32mPOST /hotels/score/ :[39m {}
+2016-07-29 13:22 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-29 13:23 - info: [32mPOST /hotels/score/ :[39m {}
+2016-07-29 13:23 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-29 13:23 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1000,"countryId":1900}]
+2016-07-29 13:24 - info: [32mPOST /hotels/score/ :[39m {"[]":""}
+2016-07-29 13:24 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-29 13:25 - info: [32mPOST /hotels/score/ :[39m {}
+2016-07-29 13:25 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-29 13:25 - info: [32mPOST /hotels/score/ :[39m {"[]":""}
+2016-07-29 13:25 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-29 13:31 - info: [36m***********************[39m
+2016-07-29 13:31 - info: [32m Server starting...[39m
+2016-07-29 13:31 - info: [32m Service available at: :::4200[39m
+2016-07-29 13:31 - info: [36m***********************[39m
+2016-07-29 13:31 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1000,"countryId":1900}]
+2016-07-29 13:32 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1004,"countryId":1900}]
+2016-07-29 13:32 - info: [36m***********************[39m
+2016-07-29 13:32 - info: [32m Server starting...[39m
+2016-07-29 13:32 - info: [32m Service available at: :::4200[39m
+2016-07-29 13:32 - info: [36m***********************[39m
+2016-07-29 13:32 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1004,"countryId":1900}]
+2016-07-29 13:32 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1004,"countryId":1900}]
+2016-07-29 13:33 - info: [36m***********************[39m
+2016-07-29 13:33 - info: [32m Server starting...[39m
+2016-07-29 13:33 - info: [32m Service available at: :::4200[39m
+2016-07-29 13:33 - info: [36m***********************[39m
+2016-07-29 13:33 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1004,"countryId":1900}]
+2016-07-29 13:33 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1006,"countryId":1900}]
+2016-07-29 13:33 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1005,"countryId":1900}]
+2016-07-29 13:33 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1003,"countryId":1900}]
+2016-07-29 13:34 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1003,"countryId":16300}]
+2016-07-29 13:34 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1001,"countryId":16300}]
+2016-07-29 13:34 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1000,"countryId":16300}]
+2016-07-29 13:35 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1000,"countryId":16300},{"hotelId":1000,"countryId":16300}]
+2016-07-29 13:35 - info: [32mPOST /hotels/score/ :[39m [{"hotelId":1000,"countryId":16300},{"hotelId":1001,"countryId":16300}]
+2016-07-29 15:31 - info: [32mGET /rules/[39m
+2016-07-29 18:42 - info: [36m***********************[39m
+2016-07-29 18:42 - info: [32m Server starting...[39m
+2016-07-29 18:42 - info: [32m Service available at: :::4200[39m
+2016-07-29 18:42 - info: [36m***********************[39m
+2016-07-29 18:44 - info: [36m***********************[39m
+2016-07-29 18:44 - info: [32m Server starting...[39m
+2016-07-29 18:44 - info: [32m Service available at: :::4200[39m
+2016-07-29 18:44 - info: [36m***********************[39m
+2016-07-29 18:44 - info: [36m***********************[39m
+2016-07-29 18:44 - info: [32m Server starting...[39m
+2016-07-29 18:44 - info: [32m Service available at: :::4200[39m
+2016-07-29 18:44 - info: [36m***********************[39m
+2016-07-29 18:45 - info: [36m***********************[39m
+2016-07-29 18:45 - info: [32m Server starting...[39m
+2016-07-29 18:45 - info: [32m Service available at: :::4200[39m
+2016-07-29 18:45 - info: [36m***********************[39m
+2016-07-29 18:46 - info: [36m***********************[39m
+2016-07-29 18:46 - info: [32m Server starting...[39m
+2016-07-29 18:46 - info: [32m Service available at: :::4200[39m
+2016-07-29 18:46 - info: [36m***********************[39m
+2016-07-29 18:48 - info: [36m***********************[39m
+2016-07-29 18:48 - info: [32m Server starting...[39m
+2016-07-29 18:48 - info: [32m Service available at: :::4200[39m
+2016-07-29 18:48 - info: [36m***********************[39m
+2016-07-29 19:09 - info: [36m***********************[39m
+2016-07-29 19:09 - info: [32m Server starting...[39m
+2016-07-29 19:09 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:09 - info: [36m***********************[39m
+2016-07-29 19:09 - info: [36m***********************[39m
+2016-07-29 19:09 - info: [32m Server starting...[39m
+2016-07-29 19:09 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:09 - info: [36m***********************[39m
+2016-07-29 19:09 - info: [36m***********************[39m
+2016-07-29 19:09 - info: [32m Server starting...[39m
+2016-07-29 19:09 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:09 - info: [36m***********************[39m
+2016-07-29 19:09 - info: [36m***********************[39m
+2016-07-29 19:09 - info: [32m Server starting...[39m
+2016-07-29 19:09 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:09 - info: [36m***********************[39m
+2016-07-29 19:30 - info: [36m***********************[39m
+2016-07-29 19:30 - info: [32m Server starting...[39m
+2016-07-29 19:30 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:30 - info: [36m***********************[39m
+2016-07-29 19:30 - info: [33m[Mock rules][39m
+2016-07-29 19:30 - info: [36mInitialising default rules.[39m
+2016-07-29 19:31 - info: [36m***********************[39m
+2016-07-29 19:31 - info: [32m Server starting...[39m
+2016-07-29 19:31 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:31 - info: [36m***********************[39m
+2016-07-29 19:31 - info: [33m[Mock rules][39m
+2016-07-29 19:31 - info: [36mInitialising default rules.[39m
+2016-07-29 19:40 - info: [36m***********************[39m
+2016-07-29 19:40 - info: [32m Server starting...[39m
+2016-07-29 19:40 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:40 - info: [36m***********************[39m
+2016-07-29 19:40 - info: [36m***********************[39m
+2016-07-29 19:40 - info: [32m Server starting...[39m
+2016-07-29 19:40 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:40 - info: [36m***********************[39m
+2016-07-29 19:40 - info: [36m***********************[39m
+2016-07-29 19:40 - info: [32m Server starting...[39m
+2016-07-29 19:40 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:40 - info: [36m***********************[39m
+2016-07-29 19:41 - info: [36m***********************[39m
+2016-07-29 19:41 - info: [32m Server starting...[39m
+2016-07-29 19:41 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:41 - info: [36m***********************[39m
+2016-07-29 19:41 - info: [36m***********************[39m
+2016-07-29 19:41 - info: [32m Server starting...[39m
+2016-07-29 19:41 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:41 - info: [36m***********************[39m
+2016-07-29 19:41 - info: [36m***********************[39m
+2016-07-29 19:41 - info: [32m Server starting...[39m
+2016-07-29 19:41 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:41 - info: [36m***********************[39m
+2016-07-29 19:41 - info: [36m***********************[39m
+2016-07-29 19:41 - info: [32m Server starting...[39m
+2016-07-29 19:41 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:41 - info: [36m***********************[39m
+2016-07-29 19:41 - info: [36m***********************[39m
+2016-07-29 19:41 - info: [32m Server starting...[39m
+2016-07-29 19:41 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:41 - info: [36m***********************[39m
+2016-07-29 19:42 - info: [36m***********************[39m
+2016-07-29 19:42 - info: [32m Server starting...[39m
+2016-07-29 19:42 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:42 - info: [36m***********************[39m
+2016-07-29 19:43 - info: [36m***********************[39m
+2016-07-29 19:43 - info: [32m Server starting...[39m
+2016-07-29 19:43 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:43 - info: [36m***********************[39m
+2016-07-29 19:43 - info: [36m***********************[39m
+2016-07-29 19:43 - info: [32m Server starting...[39m
+2016-07-29 19:43 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:43 - info: [36m***********************[39m
+2016-07-29 19:43 - info: [36m***********************[39m
+2016-07-29 19:43 - info: [32m Server starting...[39m
+2016-07-29 19:43 - info: [32m Service available at: :::4200[39m
+2016-07-29 19:43 - info: [36m***********************[39m
+2016-07-29 20:12 - info: [36m***********************[39m
+2016-07-29 20:12 - info: [32m Server starting...[39m
+2016-07-29 20:12 - info: [32m Service available at: :::4200[39m
+2016-07-29 20:12 - info: [36m***********************[39m
+2016-07-29 20:12 - info: [33m[Mock rules][39m
+2016-07-29 20:12 - info: [36mInitialising default rules.[39m
+2016-07-29 20:12 - info: [32mGET /rules.json[39m
+2016-07-29 20:14 - info: [36m***********************[39m
+2016-07-29 20:14 - info: [32m Server starting...[39m
+2016-07-29 20:14 - info: [32m Service available at: :::4200[39m
+2016-07-29 20:14 - info: [36m***********************[39m
+2016-07-29 20:14 - info: [33m[Mock rules][39m
+2016-07-29 20:14 - info: [36mInitialising default rules.[39m
+2016-07-29 20:14 - info: [32mGET /rules.json[39m
+2016-07-29 20:15 - info: [32mGET /rules.json[39m
+2016-07-29 20:15 - info: [36m***********************[39m
+2016-07-29 20:15 - info: [32m Server starting...[39m
+2016-07-29 20:15 - info: [32m Service available at: :::4200[39m
+2016-07-29 20:15 - info: [36m***********************[39m
+2016-07-29 20:15 - info: [33m[Mock rules][39m
+2016-07-29 20:15 - info: [36mInitialising default rules.[39m
+2016-07-29 20:15 - info: [32mGET /rules.json[39m
+2016-07-29 20:16 - info: [36m***********************[39m
+2016-07-29 20:16 - info: [32m Server starting...[39m
+2016-07-29 20:16 - info: [32m Service available at: :::4200[39m
+2016-07-29 20:16 - info: [36m***********************[39m
+2016-07-29 20:16 - info: [33m[Mock rules][39m
+2016-07-29 20:16 - info: [36mInitialising default rules.[39m
+2016-07-29 20:16 - info: [32mGET /rules.json[39m
+2016-07-29 20:23 - info: [32mGET /rules.json[39m
+2016-07-29 20:24 - info: [32mGET /rules.json[39m
+2016-07-29 20:46 - info: [32mGET /rules.json[39m
+2016-07-29 20:49 - info: [32mGET /rules.json[39m
+2016-07-29 20:49 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-29 20:50 - info: [36m***********************[39m
+2016-07-29 20:50 - info: [32m Server starting...[39m
+2016-07-29 20:50 - info: [32m Service available at: :::4200[39m
+2016-07-29 20:50 - info: [36m***********************[39m
+2016-07-29 20:50 - info: [33m[Mock rules][39m
+2016-07-29 20:50 - info: [36mInitialising default rules.[39m
+2016-07-29 20:50 - info: [32mGET /rules.json[39m
+2016-07-29 20:50 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-29 20:50 - info: [{"hotelId":1001,"score":5}]
+2016-07-29 20:51 - info: [32mGET /rules.json[39m
+2016-07-29 20:51 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-29 20:51 - info: [{"hotelId":1001,"score":5}]
+2016-07-29 20:51 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-29 20:51 - info: [{"hotelId":520,"score":3}]
+2016-07-29 20:51 - info: [32mGET /rules.json[39m
+2016-07-29 20:51 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-29 20:51 - info: [{"hotelId":1001,"score":5}]
+2016-07-29 20:51 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-29 20:51 - info: [{"hotelId":520,"score":3}]
+2016-07-29 20:51 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-29 20:51 - info: [{"hotelId":1002,"score":5}]
+2016-07-29 20:55 - info: [32mGET /rules.json[39m
+2016-07-29 20:55 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-29 20:55 - info: [{"hotelId":1001,"score":5}]
+2016-07-29 20:55 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-29 20:55 - info: [{"hotelId":520,"score":3}]
+2016-07-29 20:55 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-29 20:55 - info: [{"hotelId":1002,"score":5}]
+2016-07-29 20:55 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-29 20:55 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-29 22:09 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-29 22:09 - info: [36m   turn  : [39mon
+2016-07-29 22:09 - info: [36m   value : [39mundefined
+2016-07-29 22:11 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-29 22:11 - info: [36m   turn  : [39mon
+2016-07-29 22:11 - info: [36m   value : [39mundefined
+2016-07-29 23:06 - info: [36m***********************[39m
+2016-07-29 23:06 - info: [32m Server starting...[39m
+2016-07-29 23:06 - info: [32m Service available at: :::4200[39m
+2016-07-29 23:06 - info: [36m***********************[39m
+2016-07-29 23:06 - info: [36mInitialising default rules.[39m
+2016-07-29 23:33 - info: [36m***********************[39m
+2016-07-29 23:33 - info: [32m Server starting...[39m
+2016-07-29 23:33 - info: [32m Service available at: :::4200[39m
+2016-07-29 23:33 - info: [36m***********************[39m
+2016-07-29 23:33 - info: [32mGET /rules.json[39m
+2016-07-29 23:33 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-29 23:33 - info: [{"hotelId":1001,"score":5}]
+2016-07-29 23:33 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-29 23:33 - info: [{"hotelId":520,"score":3}]
+2016-07-29 23:33 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-29 23:33 - info: [{"hotelId":1002,"score":5}]
+2016-07-29 23:33 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-29 23:33 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-29 23:33 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-29 23:33 - info: [36m   turn  : [39mundefined
+2016-07-29 23:33 - info: [36m   value : [39m7
+2016-07-29 23:33 - info: [32mGET /rules.json[39m
+2016-07-29 23:33 - info: [32mPOST /rules/country/score : [39m
+2016-07-29 23:33 - info: [36m   turn  : [39mundefined
+2016-07-29 23:33 - info: [36m   value : [39m8
+2016-07-29 23:33 - info: [32mGET /rules.json[39m
+2016-07-29 23:35 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-29 23:35 - info: [36m   turn  : [39mon
+2016-07-29 23:35 - info: [36m   value : [39mundefined
+2016-07-29 23:35 - info: [36m***********************[39m
+2016-07-29 23:35 - info: [32m Server starting...[39m
+2016-07-29 23:35 - info: [32m Service available at: :::4200[39m
+2016-07-29 23:35 - info: [36m***********************[39m
+2016-07-29 23:36 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-29 23:36 - info: [36m   turn  : [39mon
+2016-07-29 23:36 - info: [36m   value : [39mundefined
+2016-07-29 23:38 - info: [36m***********************[39m
+2016-07-29 23:38 - info: [32m Server starting...[39m
+2016-07-29 23:38 - info: [32m Service available at: :::4200[39m
+2016-07-29 23:38 - info: [36m***********************[39m
+2016-07-29 23:38 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-29 23:38 - info: [36m   turn  : [39mon
+2016-07-29 23:38 - info: [36m   value : [39mundefined
+2016-07-29 23:59 - info: [36m***********************[39m
+2016-07-29 23:59 - info: [32m Server starting...[39m
+2016-07-29 23:59 - info: [32m Service available at: :::4200[39m
+2016-07-29 23:59 - info: [36m***********************[39m
+2016-07-30 00:00 - info: [36m***********************[39m
+2016-07-30 00:00 - info: [32m Server starting...[39m
+2016-07-30 00:00 - info: [32m Service available at: :::4200[39m
+2016-07-30 00:00 - info: [36m***********************[39m
+2016-07-30 00:00 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:00 - info: [36m   turn  : [39mon
+2016-07-30 00:00 - info: [36m   value : [39mundefined
+2016-07-30 00:04 - info: [36m***********************[39m
+2016-07-30 00:04 - info: [32m Server starting...[39m
+2016-07-30 00:04 - info: [32m Service available at: :::4200[39m
+2016-07-30 00:04 - info: [36m***********************[39m
+2016-07-30 00:04 - info: [33m[Mock rules][39m
+2016-07-30 00:04 - info: [36mInitialising default rules.[39m
+2016-07-30 00:04 - info: [32mGET /rules.json[39m
+2016-07-30 00:04 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:04 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:04 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:04 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:04 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:04 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:04 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:04 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:04 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:04 - info: [36m   turn  : [39mundefined
+2016-07-30 00:04 - info: [36m   value : [39m7
+2016-07-30 00:04 - info: [32mGET /rules.json[39m
+2016-07-30 00:04 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:04 - info: [36m   turn  : [39mundefined
+2016-07-30 00:04 - info: [36m   value : [39m8
+2016-07-30 00:04 - info: [32mGET /rules.json[39m
+2016-07-30 00:04 - info: [36m***********************[39m
+2016-07-30 00:04 - info: [32m Server starting...[39m
+2016-07-30 00:04 - info: [32m Service available at: :::4200[39m
+2016-07-30 00:04 - info: [36m***********************[39m
+2016-07-30 00:05 - info: [36m***********************[39m
+2016-07-30 00:05 - info: [32m Server starting...[39m
+2016-07-30 00:05 - info: [32m Service available at: :::4200[39m
+2016-07-30 00:05 - info: [36m***********************[39m
+2016-07-30 00:05 - info: [36m***********************[39m
+2016-07-30 00:05 - info: [32m Server starting...[39m
+2016-07-30 00:05 - info: [32m Service available at: :::4200[39m
+2016-07-30 00:05 - info: [36m***********************[39m
+2016-07-30 00:05 - info: [36mInitialising default rules.[39m
+2016-07-30 00:05 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:05 - info: [36m   turn  : [39mon
+2016-07-30 00:05 - info: [36m   value : [39mundefined
+2016-07-30 00:06 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:06 - info: [36m   turn  : [39moff
+2016-07-30 00:06 - info: [36m   value : [39mundefined
+2016-07-30 00:06 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:06 - info: [36m   turn  : [39moff
+2016-07-30 00:06 - info: [36m   value : [39m25
+2016-07-30 00:08 - info: [36m***********************[39m
+2016-07-30 00:08 - info: [32m Server starting...[39m
+2016-07-30 00:08 - info: [32m Service available at: :::4200[39m
+2016-07-30 00:08 - info: [36m***********************[39m
+2016-07-30 00:08 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:08 - info: [36m   turn  : [39moff
+2016-07-30 00:08 - info: [36m   value : [39m25
+2016-07-30 00:08 - info: Turn hotel off
+2016-07-30 00:08 - info: [36m***********************[39m
+2016-07-30 00:08 - info: [32m Server starting...[39m
+2016-07-30 00:08 - info: [32m Service available at: :::4200[39m
+2016-07-30 00:08 - info: [36m***********************[39m
+2016-07-30 00:08 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:08 - info: [36m   turn  : [39moff
+2016-07-30 00:08 - info: [36m   value : [39m25
+2016-07-30 00:08 - info: Turn hotel off
+2016-07-30 00:08 - info: Set hotel with value of 25
+2016-07-30 00:11 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:11 - info: [36m   turn  : [39mon
+2016-07-30 00:11 - info: [36m   value : [39m10
+2016-07-30 00:11 - info: Turn hotel on
+2016-07-30 00:11 - info: Set hotel with value of 10
+2016-07-30 00:11 - info: [36m***********************[39m
+2016-07-30 00:11 - info: [32m Server starting...[39m
+2016-07-30 00:11 - info: [32m Service available at: :::4200[39m
+2016-07-30 00:11 - info: [36m***********************[39m
+2016-07-30 00:11 - info: [33m[Mock rules][39m
+2016-07-30 00:11 - info: [36mInitialising default rules.[39m
+2016-07-30 00:11 - info: [32mGET /rules.json[39m
+2016-07-30 00:11 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:11 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:11 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:11 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:11 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:11 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:11 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:11 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:11 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:11 - info: [36m   turn  : [39mundefined
+2016-07-30 00:11 - info: [36m   value : [39m7
+2016-07-30 00:11 - info: Set hotel with value of 7
+2016-07-30 00:11 - info: [32mGET /rules.json[39m
+2016-07-30 00:11 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:11 - info: [36m   turn  : [39mundefined
+2016-07-30 00:11 - info: [36m   value : [39m8
+2016-07-30 00:11 - info: Set country with value of 8
+2016-07-30 00:11 - info: [32mGET /rules.json[39m
+2016-07-30 00:15 - info: [32mGET /rules.json[39m
+2016-07-30 00:15 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:15 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:15 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:15 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:15 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:15 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:15 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:15 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:15 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:15 - info: [36m   turn  : [39mundefined
+2016-07-30 00:15 - info: [36m   value : [39m7
+2016-07-30 00:15 - info: Set hotel with value of 7
+2016-07-30 00:15 - info: [32mGET /rules.json[39m
+2016-07-30 00:15 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:15 - info: [36m   turn  : [39mundefined
+2016-07-30 00:15 - info: [36m   value : [39m8
+2016-07-30 00:15 - info: Set country with value of 8
+2016-07-30 00:15 - info: [32mGET /rules.json[39m
+2016-07-30 00:15 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:15 - info: [36m   turn  : [39moff
+2016-07-30 00:15 - info: [36m   value : [39mundefined
+2016-07-30 00:15 - info: Turn country off
+2016-07-30 00:15 - info: [32mGET /rules.json[39m
+2016-07-30 00:15 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:15 - info: [{"hotelId":520,"score":0}]
+2016-07-30 00:17 - info: [32mGET /rules.json[39m
+2016-07-30 00:17 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:17 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:17 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:17 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:17 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:17 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:17 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:17 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:17 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:17 - info: [36m   turn  : [39mundefined
+2016-07-30 00:17 - info: [36m   value : [39m7
+2016-07-30 00:17 - info: Set hotel with value of 7
+2016-07-30 00:17 - info: [32mGET /rules.json[39m
+2016-07-30 00:17 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:17 - info: [36m   turn  : [39mundefined
+2016-07-30 00:17 - info: [36m   value : [39m8
+2016-07-30 00:17 - info: Set country with value of 8
+2016-07-30 00:17 - info: [32mGET /rules.json[39m
+2016-07-30 00:17 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:17 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:17 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:17 - info: [36m   turn  : [39moff
+2016-07-30 00:17 - info: [36m   value : [39mundefined
+2016-07-30 00:17 - info: Turn country off
+2016-07-30 00:17 - info: [32mGET /rules.json[39m
+2016-07-30 00:17 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:17 - info: [{"hotelId":520,"score":0}]
+2016-07-30 00:19 - info: [36m***********************[39m
+2016-07-30 00:19 - info: [32m Server starting...[39m
+2016-07-30 00:19 - info: [32m Service available at: :::4200[39m
+2016-07-30 00:19 - info: [36m***********************[39m
+2016-07-30 00:19 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:19 - info: [36m   turn  : [39moff
+2016-07-30 00:19 - info: [36m   value : [39m10
+2016-07-30 00:19 - info: Turn hotel off
+2016-07-30 00:19 - info: Set hotel with value of 10
+2016-07-30 00:19 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:19 - info: [36m   turn  : [39moff
+2016-07-30 00:19 - info: [36m   value : [39m5
+2016-07-30 00:19 - info: Turn country off
+2016-07-30 00:19 - info: Set country with value of 5
+2016-07-30 00:19 - info: [36m***********************[39m
+2016-07-30 00:19 - info: [32m Server starting...[39m
+2016-07-30 00:19 - info: [32m Service available at: :::4200[39m
+2016-07-30 00:19 - info: [36m***********************[39m
+2016-07-30 00:19 - info: [33m[Mock rules][39m
+2016-07-30 00:19 - info: [36mInitialising default rules.[39m
+2016-07-30 00:20 - info: [32mGET /rules.json[39m
+2016-07-30 00:20 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:20 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:20 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:20 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:20 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:20 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:20 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:20 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:20 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:20 - info: [36m   turn  : [39mundefined
+2016-07-30 00:20 - info: [36m   value : [39m7
+2016-07-30 00:20 - info: Set hotel with value of 7
+2016-07-30 00:20 - info: [32mGET /rules.json[39m
+2016-07-30 00:20 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:20 - info: [36m   turn  : [39mundefined
+2016-07-30 00:20 - info: [36m   value : [39m8
+2016-07-30 00:20 - info: Set country with value of 8
+2016-07-30 00:20 - info: [32mGET /rules.json[39m
+2016-07-30 00:20 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:20 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:20 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:20 - info: [36m   turn  : [39moff
+2016-07-30 00:20 - info: [36m   value : [39mundefined
+2016-07-30 00:20 - info: Turn country off
+2016-07-30 00:20 - info: [32mGET /rules.json[39m
+2016-07-30 00:20 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:20 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:21 - info: [32mGET /rules.json[39m
+2016-07-30 00:21 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:21 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:21 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:21 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:21 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:21 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:21 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:21 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:21 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:21 - info: [36m   turn  : [39mundefined
+2016-07-30 00:21 - info: [36m   value : [39m7
+2016-07-30 00:21 - info: Set hotel with value of 7
+2016-07-30 00:21 - info: [32mGET /rules.json[39m
+2016-07-30 00:21 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:21 - info: [36m   turn  : [39mundefined
+2016-07-30 00:21 - info: [36m   value : [39m8
+2016-07-30 00:21 - info: Set country with value of 8
+2016-07-30 00:21 - info: [32mGET /rules.json[39m
+2016-07-30 00:21 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:21 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:21 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:21 - info: [36m   turn  : [39moff
+2016-07-30 00:21 - info: [36m   value : [39mundefined
+2016-07-30 00:21 - info: Turn country off
+2016-07-30 00:21 - info: [32mGET /rules.json[39m
+2016-07-30 00:21 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:21 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:23 - info: [32mGET /rules.json[39m
+2016-07-30 00:23 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:23 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:23 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:23 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:23 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:23 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:23 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:23 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:23 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:23 - info: [36m   turn  : [39mundefined
+2016-07-30 00:23 - info: [36m   value : [39m7
+2016-07-30 00:23 - info: Set hotel with value of 7
+2016-07-30 00:23 - info: [32mGET /rules.json[39m
+2016-07-30 00:23 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:23 - info: [36m   turn  : [39mundefined
+2016-07-30 00:23 - info: [36m   value : [39m8
+2016-07-30 00:23 - info: Set country with value of 8
+2016-07-30 00:23 - info: [32mGET /rules.json[39m
+2016-07-30 00:23 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:23 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:23 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:23 - info: [36m   turn  : [39moff
+2016-07-30 00:23 - info: [36m   value : [39mundefined
+2016-07-30 00:23 - info: Turn country off
+2016-07-30 00:23 - info: [32mGET /rules.json[39m
+2016-07-30 00:23 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:23 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:23 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:23 - info: [36m   turn  : [39moff
+2016-07-30 00:23 - info: [36m   value : [39mundefined
+2016-07-30 00:23 - info: Turn hotel off
+2016-07-30 00:23 - info: [32mGET /rules.json[39m
+2016-07-30 00:23 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:23 - info: [36m   turn  : [39mon
+2016-07-30 00:23 - info: [36m   value : [39mundefined
+2016-07-30 00:23 - info: Turn hotel on
+2016-07-30 00:23 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:23 - info: [36m   turn  : [39mon
+2016-07-30 00:23 - info: [36m   value : [39mundefined
+2016-07-30 00:23 - info: Turn country on
+2016-07-30 00:23 - info: [32mGET /rules.json[39m
+2016-07-30 00:23 - info: [32mGET /rules.json[39m
+2016-07-30 00:23 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:23 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:23 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:23 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:23 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:23 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:23 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:23 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:23 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:23 - info: [36m   turn  : [39mundefined
+2016-07-30 00:23 - info: [36m   value : [39m7
+2016-07-30 00:23 - info: Set hotel with value of 7
+2016-07-30 00:23 - info: [32mGET /rules.json[39m
+2016-07-30 00:23 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:23 - info: [36m   turn  : [39mundefined
+2016-07-30 00:23 - info: [36m   value : [39m8
+2016-07-30 00:23 - info: Set country with value of 8
+2016-07-30 00:23 - info: [32mGET /rules.json[39m
+2016-07-30 00:23 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:23 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:23 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:23 - info: [36m   turn  : [39moff
+2016-07-30 00:23 - info: [36m   value : [39mundefined
+2016-07-30 00:23 - info: Turn country off
+2016-07-30 00:23 - info: [32mGET /rules.json[39m
+2016-07-30 00:23 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:23 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:23 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:23 - info: [36m   turn  : [39moff
+2016-07-30 00:23 - info: [36m   value : [39mundefined
+2016-07-30 00:23 - info: Turn hotel off
+2016-07-30 00:23 - info: [32mGET /rules.json[39m
+2016-07-30 00:23 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:23 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:23 - info: [36m   turn  : [39mon
+2016-07-30 00:23 - info: [36m   value : [39mundefined
+2016-07-30 00:23 - info: Turn hotel on
+2016-07-30 00:23 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:23 - info: [36m   turn  : [39mon
+2016-07-30 00:23 - info: [36m   value : [39mundefined
+2016-07-30 00:23 - info: Turn country on
+2016-07-30 00:23 - info: [32mGET /rules.json[39m
+2016-07-30 00:24 - info: [32mGET /rules.json[39m
+2016-07-30 00:24 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:24 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:24 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:24 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:24 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:24 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:24 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:24 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:24 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:24 - info: [36m   turn  : [39mundefined
+2016-07-30 00:24 - info: [36m   value : [39m7
+2016-07-30 00:24 - info: Set hotel with value of 7
+2016-07-30 00:24 - info: [32mGET /rules.json[39m
+2016-07-30 00:24 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:24 - info: [36m   turn  : [39mundefined
+2016-07-30 00:24 - info: [36m   value : [39m8
+2016-07-30 00:24 - info: Set country with value of 8
+2016-07-30 00:24 - info: [32mGET /rules.json[39m
+2016-07-30 00:24 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:24 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:24 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:24 - info: [36m   turn  : [39moff
+2016-07-30 00:24 - info: [36m   value : [39mundefined
+2016-07-30 00:24 - info: Turn country off
+2016-07-30 00:24 - info: [32mGET /rules.json[39m
+2016-07-30 00:24 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:24 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:24 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:24 - info: [36m   turn  : [39moff
+2016-07-30 00:24 - info: [36m   value : [39mundefined
+2016-07-30 00:24 - info: Turn hotel off
+2016-07-30 00:24 - info: [32mGET /rules.json[39m
+2016-07-30 00:24 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:24 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:24 - info: [36m   turn  : [39mon
+2016-07-30 00:24 - info: [36m   value : [39mundefined
+2016-07-30 00:24 - info: Turn hotel on
+2016-07-30 00:24 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:24 - info: [36m   turn  : [39mon
+2016-07-30 00:24 - info: [36m   value : [39mundefined
+2016-07-30 00:24 - info: Turn country on
+2016-07-30 00:24 - info: [32mGET /rules.json[39m
+2016-07-30 00:25 - info: [36m***********************[39m
+2016-07-30 00:25 - info: [32m Server starting...[39m
+2016-07-30 00:25 - info: [32m Service available at: :::4200[39m
+2016-07-30 00:25 - info: [36m***********************[39m
+2016-07-30 00:25 - info: [33m[Mock rules][39m
+2016-07-30 00:25 - info: [36mInitialising default rules.[39m
+2016-07-30 00:25 - info: [32mGET /rules.json[39m
+2016-07-30 00:25 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:25 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:25 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:25 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:25 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:25 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:25 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:25 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:25 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:25 - info: [36m   turn  : [39mundefined
+2016-07-30 00:25 - info: [36m   value : [39m7
+2016-07-30 00:25 - info: Set hotel with value of 7
+2016-07-30 00:25 - info: [32mGET /rules.json[39m
+2016-07-30 00:25 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:25 - info: [36m   turn  : [39mundefined
+2016-07-30 00:25 - info: [36m   value : [39m8
+2016-07-30 00:25 - info: Set country with value of 8
+2016-07-30 00:25 - info: [32mGET /rules.json[39m
+2016-07-30 00:25 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:25 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:25 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:25 - info: [36m   turn  : [39moff
+2016-07-30 00:25 - info: [36m   value : [39mundefined
+2016-07-30 00:25 - info: Turn country off
+2016-07-30 00:25 - info: [32mGET /rules.json[39m
+2016-07-30 00:25 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:25 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:25 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:25 - info: [36m   turn  : [39moff
+2016-07-30 00:25 - info: [36m   value : [39mundefined
+2016-07-30 00:25 - info: Turn hotel off
+2016-07-30 00:25 - info: [32mGET /rules.json[39m
+2016-07-30 00:25 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:25 - info: [{"hotelId":1001,"score":0}]
+2016-07-30 00:25 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:25 - info: [36m   turn  : [39mon
+2016-07-30 00:25 - info: [36m   value : [39mundefined
+2016-07-30 00:25 - info: Turn hotel on
+2016-07-30 00:25 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:25 - info: [36m   turn  : [39mon
+2016-07-30 00:25 - info: [36m   value : [39mundefined
+2016-07-30 00:25 - info: Turn country on
+2016-07-30 00:25 - info: [32mGET /rules.json[39m
+2016-07-30 00:29 - info: [36m***********************[39m
+2016-07-30 00:29 - info: [32m Server starting...[39m
+2016-07-30 00:29 - info: [32m Service available at: :::4200[39m
+2016-07-30 00:29 - info: [36m***********************[39m
+2016-07-30 00:29 - info: [33m[Mock rules][39m
+2016-07-30 00:29 - info: [36mInitialising default rules.[39m
+2016-07-30 00:29 - info: [32mGET /rules.json[39m
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:29 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:29 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:29 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:29 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:29 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:29 - info: [36m   turn  : [39mundefined
+2016-07-30 00:29 - info: [36m   value : [39m7
+2016-07-30 00:29 - info: Set hotel with value of 7
+2016-07-30 00:29 - info: [32mGET /rules.json[39m
+2016-07-30 00:29 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:29 - info: [36m   turn  : [39mundefined
+2016-07-30 00:29 - info: [36m   value : [39m8
+2016-07-30 00:29 - info: Set country with value of 8
+2016-07-30 00:29 - info: [32mGET /rules.json[39m
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:29 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:29 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:29 - info: [36m   turn  : [39moff
+2016-07-30 00:29 - info: [36m   value : [39mundefined
+2016-07-30 00:29 - info: Turn country off
+2016-07-30 00:29 - info: [32mGET /rules.json[39m
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:29 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:29 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:29 - info: [36m   turn  : [39moff
+2016-07-30 00:29 - info: [36m   value : [39mundefined
+2016-07-30 00:29 - info: Turn hotel off
+2016-07-30 00:29 - info: [32mGET /rules.json[39m
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:29 - info: [{"hotelId":1001,"score":0}]
+2016-07-30 00:29 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:29 - info: [36m   turn  : [39mon
+2016-07-30 00:29 - info: [36m   value : [39mundefined
+2016-07-30 00:29 - info: Turn hotel on
+2016-07-30 00:29 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:29 - info: [36m   turn  : [39mon
+2016-07-30 00:29 - info: [36m   value : [39mundefined
+2016-07-30 00:29 - info: Turn country on
+2016-07-30 00:29 - info: [32mGET /rules.json[39m
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m {"foo":"bar"}
+2016-07-30 00:29 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-30 00:29 - info: [32mGET /rules.json[39m
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:29 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:29 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:29 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:29 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:29 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:29 - info: [36m   turn  : [39mundefined
+2016-07-30 00:29 - info: [36m   value : [39m7
+2016-07-30 00:29 - info: Set hotel with value of 7
+2016-07-30 00:29 - info: [32mGET /rules.json[39m
+2016-07-30 00:29 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:29 - info: [36m   turn  : [39mundefined
+2016-07-30 00:29 - info: [36m   value : [39m8
+2016-07-30 00:29 - info: Set country with value of 8
+2016-07-30 00:29 - info: [32mGET /rules.json[39m
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:29 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:29 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:29 - info: [36m   turn  : [39moff
+2016-07-30 00:29 - info: [36m   value : [39mundefined
+2016-07-30 00:29 - info: Turn country off
+2016-07-30 00:29 - info: [32mGET /rules.json[39m
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:29 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:29 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:29 - info: [36m   turn  : [39moff
+2016-07-30 00:29 - info: [36m   value : [39mundefined
+2016-07-30 00:29 - info: Turn hotel off
+2016-07-30 00:29 - info: [32mGET /rules.json[39m
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:29 - info: [{"hotelId":1001,"score":0}]
+2016-07-30 00:29 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:29 - info: [36m   turn  : [39mon
+2016-07-30 00:29 - info: [36m   value : [39mundefined
+2016-07-30 00:29 - info: Turn hotel on
+2016-07-30 00:29 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:29 - info: [36m   turn  : [39mon
+2016-07-30 00:29 - info: [36m   value : [39mundefined
+2016-07-30 00:29 - info: Turn country on
+2016-07-30 00:29 - info: [32mGET /rules.json[39m
+2016-07-30 00:29 - info: [32mPOST /hotels/score.json :[39m {"foo":"bar"}
+2016-07-30 00:29 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-30 00:30 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1000,"countryId":16300}]
+2016-07-30 00:30 - info: [{"hotelId":1000,"score":0}]
+2016-07-30 00:30 - info: [32mPOST /hotels/score.json :[39m {}
+2016-07-30 00:30 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-30 00:31 - info: [36m***********************[39m
+2016-07-30 00:31 - info: [32m Server starting...[39m
+2016-07-30 00:31 - info: [32m Service available at: :::4200[39m
+2016-07-30 00:31 - info: [36m***********************[39m
+2016-07-30 00:31 - info: [33m[Mock rules][39m
+2016-07-30 00:31 - info: [36mInitialising default rules.[39m
+2016-07-30 00:31 - info: [32mGET /rules.json[39m
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:31 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:31 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:31 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:31 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:31 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:31 - info: [36m   turn  : [39mundefined
+2016-07-30 00:31 - info: [36m   value : [39m7
+2016-07-30 00:31 - info: Set hotel with value of 7
+2016-07-30 00:31 - info: [32mGET /rules.json[39m
+2016-07-30 00:31 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:31 - info: [36m   turn  : [39mundefined
+2016-07-30 00:31 - info: [36m   value : [39m8
+2016-07-30 00:31 - info: Set country with value of 8
+2016-07-30 00:31 - info: [32mGET /rules.json[39m
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:31 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:31 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:31 - info: [36m   turn  : [39moff
+2016-07-30 00:31 - info: [36m   value : [39mundefined
+2016-07-30 00:31 - info: Turn country off
+2016-07-30 00:31 - info: [32mGET /rules.json[39m
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:31 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:31 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:31 - info: [36m   turn  : [39moff
+2016-07-30 00:31 - info: [36m   value : [39mundefined
+2016-07-30 00:31 - info: Turn hotel off
+2016-07-30 00:31 - info: [32mGET /rules.json[39m
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:31 - info: [{"hotelId":1001,"score":0}]
+2016-07-30 00:31 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:31 - info: [36m   turn  : [39mon
+2016-07-30 00:31 - info: [36m   value : [39mundefined
+2016-07-30 00:31 - info: Turn hotel on
+2016-07-30 00:31 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:31 - info: [36m   turn  : [39mon
+2016-07-30 00:31 - info: [36m   value : [39mundefined
+2016-07-30 00:31 - info: Turn country on
+2016-07-30 00:31 - info: [32mGET /rules.json[39m
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m {"foo":"bar"}
+2016-07-30 00:31 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-30 00:31 - info: [32mGET /rules.json[39m
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:31 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:31 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:31 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:31 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:31 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:31 - info: [36m   turn  : [39mundefined
+2016-07-30 00:31 - info: [36m   value : [39m7
+2016-07-30 00:31 - info: Set hotel with value of 7
+2016-07-30 00:31 - info: [32mGET /rules.json[39m
+2016-07-30 00:31 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:31 - info: [36m   turn  : [39mundefined
+2016-07-30 00:31 - info: [36m   value : [39m8
+2016-07-30 00:31 - info: Set country with value of 8
+2016-07-30 00:31 - info: [32mGET /rules.json[39m
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:31 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:31 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:31 - info: [36m   turn  : [39moff
+2016-07-30 00:31 - info: [36m   value : [39mundefined
+2016-07-30 00:31 - info: Turn country off
+2016-07-30 00:31 - info: [32mGET /rules.json[39m
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:31 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:31 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:31 - info: [36m   turn  : [39moff
+2016-07-30 00:31 - info: [36m   value : [39mundefined
+2016-07-30 00:31 - info: Turn hotel off
+2016-07-30 00:31 - info: [32mGET /rules.json[39m
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:31 - info: [{"hotelId":1001,"score":0}]
+2016-07-30 00:31 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:31 - info: [36m   turn  : [39mon
+2016-07-30 00:31 - info: [36m   value : [39mundefined
+2016-07-30 00:31 - info: Turn hotel on
+2016-07-30 00:31 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:31 - info: [36m   turn  : [39mon
+2016-07-30 00:31 - info: [36m   value : [39mundefined
+2016-07-30 00:31 - info: Turn country on
+2016-07-30 00:31 - info: [32mGET /rules.json[39m
+2016-07-30 00:31 - info: [32mPOST /hotels/score.json :[39m {"foo":"bar"}
+2016-07-30 00:31 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-30 00:33 - info: [32mGET /rules.json[39m
+2016-07-30 00:33 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:33 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:33 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:33 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:33 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:33 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:33 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:33 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:33 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:33 - info: [36m   turn  : [39mundefined
+2016-07-30 00:33 - info: [36m   value : [39m7
+2016-07-30 00:33 - info: Set hotel with value of 7
+2016-07-30 00:33 - info: [32mGET /rules.json[39m
+2016-07-30 00:33 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:33 - info: [36m   turn  : [39mundefined
+2016-07-30 00:33 - info: [36m   value : [39m8
+2016-07-30 00:33 - info: Set country with value of 8
+2016-07-30 00:33 - info: [32mGET /rules.json[39m
+2016-07-30 00:33 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:33 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:33 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:33 - info: [36m   turn  : [39moff
+2016-07-30 00:33 - info: [36m   value : [39mundefined
+2016-07-30 00:33 - info: Turn country off
+2016-07-30 00:33 - info: [32mGET /rules.json[39m
+2016-07-30 00:33 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:33 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:33 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:33 - info: [36m   turn  : [39moff
+2016-07-30 00:33 - info: [36m   value : [39mundefined
+2016-07-30 00:33 - info: Turn hotel off
+2016-07-30 00:33 - info: [32mGET /rules.json[39m
+2016-07-30 00:33 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:33 - info: [{"hotelId":1001,"score":0}]
+2016-07-30 00:33 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:33 - info: [36m   turn  : [39mon
+2016-07-30 00:33 - info: [36m   value : [39mundefined
+2016-07-30 00:33 - info: Turn hotel on
+2016-07-30 00:33 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:33 - info: [36m   turn  : [39mon
+2016-07-30 00:33 - info: [36m   value : [39mundefined
+2016-07-30 00:33 - info: Turn country on
+2016-07-30 00:33 - info: [32mGET /rules.json[39m
+2016-07-30 00:33 - info: [32mPOST /hotels/score.json :[39m {"foo":"bar"}
+2016-07-30 00:33 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-30 00:33 - info: [32mPOST /rules/city/score : [39m
+2016-07-30 00:33 - info: [36m   turn  : [39mon
+2016-07-30 00:33 - info: [36m   value : [39mundefined
+2016-07-30 00:35 - info: [32mGET /rules.json[39m
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:35 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:35 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:35 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:35 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:35 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39mundefined
+2016-07-30 00:35 - info: [36m   value : [39m7
+2016-07-30 00:35 - info: Set hotel with value of 7
+2016-07-30 00:35 - info: [32mGET /rules.json[39m
+2016-07-30 00:35 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39mundefined
+2016-07-30 00:35 - info: [36m   value : [39m8
+2016-07-30 00:35 - info: Set country with value of 8
+2016-07-30 00:35 - info: [32mGET /rules.json[39m
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:35 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:35 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39moff
+2016-07-30 00:35 - info: [36m   value : [39mundefined
+2016-07-30 00:35 - info: Turn country off
+2016-07-30 00:35 - info: [32mGET /rules.json[39m
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:35 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:35 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39moff
+2016-07-30 00:35 - info: [36m   value : [39mundefined
+2016-07-30 00:35 - info: Turn hotel off
+2016-07-30 00:35 - info: [32mGET /rules.json[39m
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:35 - info: [{"hotelId":1001,"score":0}]
+2016-07-30 00:35 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39mon
+2016-07-30 00:35 - info: [36m   value : [39mundefined
+2016-07-30 00:35 - info: Turn hotel on
+2016-07-30 00:35 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39mon
+2016-07-30 00:35 - info: [36m   value : [39mundefined
+2016-07-30 00:35 - info: Turn country on
+2016-07-30 00:35 - info: [32mGET /rules.json[39m
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m {"foo":"bar"}
+2016-07-30 00:35 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-30 00:35 - info: [32mPOST /rules/city/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39mon
+2016-07-30 00:35 - info: [36m   value : [39mundefined
+2016-07-30 00:35 - info: [32mPOST /rules/city/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39mundefined
+2016-07-30 00:35 - info: [36m   value : [39mundefined
+2016-07-30 00:35 - info: [32mGET /rules.json[39m
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:35 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:35 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:35 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:35 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:35 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39mundefined
+2016-07-30 00:35 - info: [36m   value : [39m7
+2016-07-30 00:35 - info: Set hotel with value of 7
+2016-07-30 00:35 - info: [32mGET /rules.json[39m
+2016-07-30 00:35 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39mundefined
+2016-07-30 00:35 - info: [36m   value : [39m8
+2016-07-30 00:35 - info: Set country with value of 8
+2016-07-30 00:35 - info: [32mGET /rules.json[39m
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:35 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:35 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39moff
+2016-07-30 00:35 - info: [36m   value : [39mundefined
+2016-07-30 00:35 - info: Turn country off
+2016-07-30 00:35 - info: [32mGET /rules.json[39m
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:35 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:35 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39moff
+2016-07-30 00:35 - info: [36m   value : [39mundefined
+2016-07-30 00:35 - info: Turn hotel off
+2016-07-30 00:35 - info: [32mGET /rules.json[39m
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:35 - info: [{"hotelId":1001,"score":0}]
+2016-07-30 00:35 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39mon
+2016-07-30 00:35 - info: [36m   value : [39mundefined
+2016-07-30 00:35 - info: Turn hotel on
+2016-07-30 00:35 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39mon
+2016-07-30 00:35 - info: [36m   value : [39mundefined
+2016-07-30 00:35 - info: Turn country on
+2016-07-30 00:35 - info: [32mGET /rules.json[39m
+2016-07-30 00:35 - info: [32mPOST /hotels/score.json :[39m {"foo":"bar"}
+2016-07-30 00:35 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-30 00:35 - info: [32mPOST /rules/city/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39mon
+2016-07-30 00:35 - info: [36m   value : [39mundefined
+2016-07-30 00:35 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:35 - info: [36m   turn  : [39mundefined
+2016-07-30 00:35 - info: [36m   value : [39mundefined
+2016-07-30 00:39 - info: [32mGET /rules.json[39m
+2016-07-30 00:39 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":20000}]
+2016-07-30 00:39 - info: [{"hotelId":1001,"score":5}]
+2016-07-30 00:39 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:39 - info: [{"hotelId":520,"score":3}]
+2016-07-30 00:39 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1002,"countryId":16100}]
+2016-07-30 00:39 - info: [{"hotelId":1002,"score":5}]
+2016-07-30 00:39 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1006,"countryId":16000},{"hotelId":1005,"countryId":16100},{"hotelId":1004,"countryId":16200},{"hotelId":1003,"countryId":16300},{"hotelId":1002,"countryId":16400}]
+2016-07-30 00:39 - info: [{"hotelId":1006,"score":0},{"hotelId":1005,"score":3},{"hotelId":1004,"score":5},{"hotelId":1003,"score":5},{"hotelId":1002,"score":5}]
+2016-07-30 00:39 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:39 - info: [36m   turn  : [39mundefined
+2016-07-30 00:39 - info: [36m   value : [39m7
+2016-07-30 00:39 - info: Set hotel with value of 7
+2016-07-30 00:39 - info: [32mGET /rules.json[39m
+2016-07-30 00:39 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:39 - info: [36m   turn  : [39mundefined
+2016-07-30 00:39 - info: [36m   value : [39m8
+2016-07-30 00:39 - info: Set country with value of 8
+2016-07-30 00:39 - info: [32mGET /rules.json[39m
+2016-07-30 00:39 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":520,"countryId":16100}]
+2016-07-30 00:39 - info: [{"hotelId":520,"score":8}]
+2016-07-30 00:39 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:39 - info: [36m   turn  : [39moff
+2016-07-30 00:39 - info: [36m   value : [39mundefined
+2016-07-30 00:39 - info: Turn country off
+2016-07-30 00:39 - info: [32mGET /rules.json[39m
+2016-07-30 00:39 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:39 - info: [{"hotelId":1001,"score":7}]
+2016-07-30 00:39 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:39 - info: [36m   turn  : [39moff
+2016-07-30 00:39 - info: [36m   value : [39mundefined
+2016-07-30 00:39 - info: Turn hotel off
+2016-07-30 00:39 - info: [32mGET /rules.json[39m
+2016-07-30 00:39 - info: [32mPOST /hotels/score.json :[39m [{"hotelId":1001,"countryId":16100}]
+2016-07-30 00:39 - info: [{"hotelId":1001,"score":0}]
+2016-07-30 00:39 - info: [32mPOST /rules/hotel/score : [39m
+2016-07-30 00:39 - info: [36m   turn  : [39mon
+2016-07-30 00:39 - info: [36m   value : [39mundefined
+2016-07-30 00:39 - info: Turn hotel on
+2016-07-30 00:39 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:39 - info: [36m   turn  : [39mon
+2016-07-30 00:39 - info: [36m   value : [39mundefined
+2016-07-30 00:39 - info: Turn country on
+2016-07-30 00:39 - info: [32mGET /rules.json[39m
+2016-07-30 00:39 - info: [32mPOST /hotels/score.json :[39m {"foo":"bar"}
+2016-07-30 00:39 - error: [33mSupplied hotel list is invalid.[39m
+2016-07-30 00:39 - info: [32mPOST /rules/city/score : [39m
+2016-07-30 00:39 - info: [36m   turn  : [39mon
+2016-07-30 00:39 - info: [36m   value : [39mundefined
+2016-07-30 00:39 - info: [32mPOST /rules/country/score : [39m
+2016-07-30 00:39 - info: [36m   turn  : [39mundefined
+2016-07-30 00:39 - info: [36m   value : [39mundefined

@@ -1,0 +1,38 @@
+{
+  "name": "hotelscore",
+  "version": "0.0.1",
+  "description": "RESTful service providing hotel scores",
+  "main": "app.js",
+  "port": 4200,
+  "mongodb": "hotel",
+  "mongodb-mock": "hotel-mock",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "agoda",
+    "hotel",
+    "restful"
+  ],
+  "author": "TaoPR",
+  "license": "Proprietary",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "colors": "^1.1.2",
+    "express": "^4.14.0",
+    "moment": "^2.14.1",
+    "underscore": "^1.8.3",
+    "winston": "^2.2.0",
+    "winston-daily-rotate-file": "^1.2.0"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "chai": "^3.5.0",
+    "chai-things": "^0.2.0",
+    "mocha": "^2.5.3",
+    "should": "^10.0.0",
+    "supertest": "^1.2.0"
+  }
+}
